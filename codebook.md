@@ -1,4 +1,4 @@
-CodeBook
+
 This is a md file that explains source and processing of data, as well as meaning of each variables in the data set titled "tidy_data.txt"
 
 -1 data are extracted and reshaped from "Human Activity Recognition Using Smartphones Dataset Version 1.0" Only average of each variable for each activity and each subject is recored in this dataset.
